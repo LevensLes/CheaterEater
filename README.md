@@ -13,4 +13,6 @@ This tool contains all the fundamentals to catch cheaters.
 * Recycle bin last modified checkerd
 
 
+* This was my learning project and some code might be inefficient. 
+
 
