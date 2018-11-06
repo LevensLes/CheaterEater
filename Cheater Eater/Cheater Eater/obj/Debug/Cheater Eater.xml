@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cheater Eater
+</name>
+</assembly>
+<members>
+<member name="T:Cheater_Eater.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Cheater_Eater.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Cheater_Eater.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Cheater_Eater.My.Resources.Resources.norecfag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cheater_Eater.My.Resources.Resources.trashnigga">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Cheater_Eater.Helpers">
+ <summary>
+ Flat UI Theme
+ Creator: iSynthesis (HF)
+ FIXED BY DUCKIETY FOR NET 4.5.2+ (MAYBE LOWER)!!
+ Version: 1.0.4
+ Date Created: 17/06/2013
+ Date Changed: 26/06/2013
+ UID: 374648
+ For any bugs / errors, PM me.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:Cheater_Eater.FlatAlertBox.W">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:Cheater_Eater.FlatAlertBox.H">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
