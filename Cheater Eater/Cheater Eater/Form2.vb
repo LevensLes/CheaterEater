@@ -1,7 +1,7 @@
 ﻿Public Class Form2
     Private Sub FlatButton1_Click(sender As Object, e As EventArgs) Handles FlatButton1.Click
 
-        If FlatTextBox2.Text = ("nigger") Then
+        If FlatTextBox2.Text = ("disabled") Then
             Form1.FlatToggle1.Checked = False
             Form1.FlatToggle1.Enabled = True
             Form1.FlatToggle1.Refresh()
